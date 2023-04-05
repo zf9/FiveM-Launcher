@@ -1,6 +1,6 @@
 # ZF9#7655
 What it does.   
-When joining a server it checks server version and if pure mode is enabled and launch the game joining the server without needing a restart   
+When joining a server it checks server version and if pure mode is enabled and launchss the game joining the server without needing a restart   
    
    
    
